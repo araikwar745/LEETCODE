@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/araikwar745/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/araikwar745/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/araikwar745/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/araikwar745/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/araikwar745/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/araikwar745/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/araikwar745/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
