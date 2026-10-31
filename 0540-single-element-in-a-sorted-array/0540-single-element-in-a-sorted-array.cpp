@@ -1,13 +1,12 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int s=0,e=nums.size()-1;
         if(nums.size()==1){
             return nums[0];
         }
+        int s=0,e=nums.size()-1;
         while(s<=e){
             int m=s+(e-s)/2;
-            
             if(m==0 && nums[m]!=nums[m+1]){
                 return nums[m];
             }
@@ -34,6 +33,6 @@ public:
                 }
             }
         }
-        return -1;
+        return -1;   
     }
 };
